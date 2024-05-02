@@ -1,0 +1,64 @@
+#cnt_contacto{
+    background-color:darkgray;   
+    color: white;
+    height:23px;
+    }
+
+#cnt_principal{
+    background-color:white;   
+}
+
+.txt_texto:not(:last-child){
+    display: inline-block;
+    margin-right:5px;
+    padding-right: 5px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.cnt_titulo{
+    padding-bottom: 30px;
+}
+
+#cnt_tarjetas{
+    margin-top:50px;
+    margin-bottom:35px;
+}
+
+#cnt_pie{
+    background-color:#364A61;
+    padding-top:50px;
+    padding-bottom: 70px;
+    color: white;
+}
+#btn_pequeño{
+    margin-top:10px;
+    background-color:darkcyan;
+    color: white;
+}
+
+#btn_productos{
+    margin-top: 20px;
+    width: 300px;
+    height:55px;
+    color: white;
+    font-size: large;
+    background-color:darkcyan;
+}
+
+#cnt_info{
+    background-color:darkgray;
+    padding-right: 50px;
+    padding-top: 30px;
+
+}
+
+#img_info{
+    margin-bottom: 25px;
+    margin-left: 30px;
+    border-style:groove;
+    border-radius:0%;
+}
+
+form{
+    width:570px;
+}
